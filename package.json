@@ -1,0 +1,24 @@
+{
+  "name": "js-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "html-pdf": "^2.2.0",
+    "morgan": "^1.10.0",
+    "node-xlsx": "^0.16.1",
+    "nodemon": "^2.0.7"
+  }
+}
