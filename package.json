@@ -18,7 +18,6 @@
     "express-fileupload": "^1.2.1",
     "html-pdf": "^2.2.0",
     "morgan": "^1.10.0",
-    "node-xlsx": "^0.16.1",
     "nodemon": "^2.0.7"
   }
 }
